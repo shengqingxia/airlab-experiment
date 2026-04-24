@@ -19,7 +19,7 @@ Please indicate your availability by placing a check mark (✓) in your row:
 | Prisha | |
 | Vatsal | |
 |Zheng | |
-|An | |
+|An |✓|
 |Nathan | |
 
 ## Exp-20260426
@@ -61,5 +61,5 @@ Please indicate your availability by placing a check mark (✓) in your row:
 | Prisha | |
 | Vatsal | |
 |Zheng | |
-|An | |
+|An |✓|
 |Nathan | |
