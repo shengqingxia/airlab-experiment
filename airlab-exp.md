@@ -45,12 +45,14 @@ Please indicate your availability by placing a check mark (✓) in your row:
 ## Exp-20260426-weekend
 
 -**Contact: Shengqing  (xia170@purdue.edu)**
-- Time: about 2 hours in the weekend (04/25/2026 or 04/26/2026) 
-- Location: TBD (contact later by SQ)
+- Time: 04/26/2026 14AM - 16PM 
+- Location: 3017 Covington Street (can provide drive if needed)
 
 - **Request-before-exp**: exploration experiments in WL (drive + flight). Details provided by Contact. 
+- More from contact: 
+. Control the drone to either fly along the street or fly towards the building.
+. Need to measure the distance from each object to the drone's camera
 
-- More from contact: N/A.
 - **Sign up (before 6PM 04/24/2026)**
 
 Please indicate your availability by placing a check mark (✓) in your row:
