@@ -60,6 +60,6 @@ Please indicate your availability by placing a check mark (✓) in your row:
 | -------- | -------- |
 | Prisha | |
 | Vatsal | |
-|Zheng | |
+|Zheng |√|
 |An | |
 |Nathan | |
